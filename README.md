@@ -155,6 +155,15 @@ print(predictions)
 print(confusion_matrix(y_test,predictions))
 print(classification_report(y_test,predictions))
 ```
+
+
+<H3>Output:</H3>
+
+![image](https://github.com/nithish143257/Ex-4-NN/assets/113762839/3fcfd806-fd58-46ce-91e1-538e615ec83f)
+
+
+<H3>Program:</H3> 
+
 ```
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -183,19 +192,7 @@ print(classification_report(testing_b,predicted_values))
 
 <H3>Output:</H3>
 
-![image](https://github.com/nithish143257/Ex-4-NN/assets/113762839/f2149b90-6f3a-4a1a-b5ce-190b1cab6fab)
-
-![image](https://github.com/nithish143257/Ex-4-NN/assets/113762839/d48987a6-cc80-42ee-bddd-6707cb2ac651)
-
-![image](https://github.com/nithish143257/Ex-4-NN/assets/113762839/e8daa1c6-cc08-4880-8db7-1873d962e25d)
-
-![image](https://github.com/nithish143257/Ex-4-NN/assets/113762839/4edaa862-e044-4c88-8f5b-74c7b2468c37)
-
-![image](https://github.com/nithish143257/Ex-4-NN/assets/113762839/ee83d7ee-313c-48f6-b14c-972eb5af90fe)
-
-
-
-
+![image](https://github.com/nithish143257/Ex-4-NN/assets/113762839/7ed3a0e7-54c4-49d1-97e2-95f29a64042b)
 
 
 <H3>Result:</H3>
